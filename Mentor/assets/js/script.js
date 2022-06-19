@@ -2653,3 +2653,4 @@ function AddToReponses(idExam) {
     location.replace("index.html");
 
 }
+///j ai une autre version à importer!
